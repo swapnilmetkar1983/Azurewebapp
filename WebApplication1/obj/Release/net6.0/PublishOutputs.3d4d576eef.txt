@@ -1,0 +1,13 @@
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Swapnil_WorkSpace\AZURE\APP1\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

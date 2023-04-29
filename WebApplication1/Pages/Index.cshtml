@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">First App to be deployed on Azure VM. I like Azure</a>.</p>
+
+
+    <p>Currnelty this application is running on Azure Web APP ... thats great !!!</p>
+
+    <p>Below table data is coming from Azure SQL database</p>
+
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+           
+                <th scope="col">ProductId</th>
+                <th scope="col">ProductName</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var product in Model.products)
+            {
+            <tr>
+                
+                <td>@product.productId</td>
+                <td>@product.productName</td>
+               
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
